@@ -1,1 +1,1 @@
-# Partical-swarm-optimiztion-code-in-matlab
+# Partical-swarm-optimiztion-code-in-matlab code in matlab
